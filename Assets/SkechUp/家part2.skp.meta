@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: b412cfee1734ebd458c1ca5f05ce7aa1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e3ce80f303158e64e79b8ab7a820db56
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -13.426123, y: 9.933438, z: 19.721565}
+      lookAt: {x: -1.0227454, y: 6.5714107, z: 14.407652}
+      up: {x: 0.2222273, y: 0.9703353, z: -0.09520766}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Josh
+    100002: //RootNode
+    400000: Josh
+    400002: //RootNode
+    2100000: _defaultMat
+    2100002: '[Color C01]'
+    2100004: '[Roofing Shingles GAF Estates]'
+    2100006: '[Color M09]'
+    2100008: '[Wood Cherry Original]'
+    2100010: '[Metal Aluminum Anodized]'
+    2100012: '[Translucent Glass Tinted]'
+    2100014: '[Color M00]'
+    2100016: '[Stone Vein Gray]'
+    2100018: '[Aluminum]'
+    2100020: '[Color M05]'
+    2100022: '[Color E01]'
+    2100024: '[Wood Bamboo Medium]'
+    2100026: Leather Red Brown
+    2100028: '[Tile Limestone Large]'
+    2100030: '[Color M07]'
+    2100032: '[Color A02]'
+    2100034: '[Blinds Vertical Pattern]'
+    2100036: '[Josh_Pants]'
+    2100038: Josh_Shirt_01
+    2100040: '[Josh_Boots]'
+    2100042: '[Josh_Hair]'
+    2100044: '[Josh_Skin]'
+    2100046: '[Josh_Shirt_02]'
+    2100048: '[Josh_Boots_Sole]'
+    2100050: '[Josh_Beard]'
+    2300000: Josh
+    2300002: //RootNode
+    3300000: Josh
+    3300002: //RootNode
+    4300000: "Mesh \u5BB6part2"
+    4300002: Mesh Josh
+    6400000: Josh
+    6400002: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Shirt_01
+    second: {fileID: 2100000, guid: 0e9bb6e23c8353144baefc59deb5ca85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather Red Brown
+    second: {fileID: 2100000, guid: 77a4b8a9e5270a143a04b8223d14221d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Aluminum]'
+    second: {fileID: 2100000, guid: 8c32281938faa434ebcefd78b84adbe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Blinds Vertical Pattern]'
+    second: {fileID: 2100000, guid: 8c168f1fc0e768145943346970fb21cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A02]'
+    second: {fileID: 2100000, guid: e6ef73015e4e163438480813901bcf47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color C01]'
+    second: {fileID: 2100000, guid: 978afd84c4a637b4da0c282792b46381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color E01]'
+    second: {fileID: 2100000, guid: a4fbcb4568602034ea3571ad42f846a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M00]'
+    second: {fileID: 2100000, guid: 96261f025d65ecd41874c935a1fd4021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M05]'
+    second: {fileID: 2100000, guid: 70e0b3a901ad85048bbe8e9c8fe7af22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]'
+    second: {fileID: 2100000, guid: 9952c5093254cff458e33b1712077e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 4f830cefbfb7f3849a57c7cc6d2b7616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Beard]'
+    second: {fileID: 2100000, guid: a0256b2ecb6eb014ea62de0f2adff576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Boots]'
+    second: {fileID: 2100000, guid: b74ac1a81e9ed7649b5fdd62fc703778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Boots_Sole]'
+    second: {fileID: 2100000, guid: e6af7996fa8817943924a42bc67ff315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Hair]'
+    second: {fileID: 2100000, guid: a641707c24dda7744978430b760e46f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Pants]'
+    second: {fileID: 2100000, guid: 1d30af2bb9f4bcb449b7e08e6de97245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Shirt_02]'
+    second: {fileID: 2100000, guid: cd10270ef23f72841bb0784b33113efa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Josh_Skin]'
+    second: {fileID: 2100000, guid: 7f37a224a8e894d4182552039df52ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal Aluminum Anodized]'
+    second: {fileID: 2100000, guid: 6c87741170d355c4c8c17b46f7750190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing Shingles GAF Estates]'
+    second: {fileID: 2100000, guid: b5ea569e353b6b741b185bbf536e3ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone Vein Gray]'
+    second: {fileID: 2100000, guid: 557e23e17d95bbf4da95430b0ffcc79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Tile Limestone Large]'
+    second: {fileID: 2100000, guid: efb57c9a60d32df4cbc9ac81aa9dda30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Tinted]'
+    second: {fileID: 2100000, guid: c7cd4c582819f7d458162c9e638f4b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Bamboo Medium]'
+    second: {fileID: 2100000, guid: e82d199e9be2b2e41adc19dc14ea3459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Cherry Original]'
+    second: {fileID: 2100000, guid: d6d75b13803ca304c8d686c15bcda5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: e1ea64ee4fcff7441a0e73fe5c730d5d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02032
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

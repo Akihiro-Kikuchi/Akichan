@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 2b48793fe182ae54595e24bbbc09e972
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2fb67d047962fe90cfbaa076aaee2182
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 15.771665, y: 12.641823, z: 20.07329}
+      lookAt: {x: 26.080559, y: -0.76628584, z: 4.950544}
+      up: {x: 0.33287317, y: 0.80668885, z: -0.48831192}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Helen
+    100002: //RootNode
+    400000: Helen
+    400002: //RootNode
+    2100000: _defaultMat
+    2100002: '[Suede Green]'
+    2100004: '[Color E01]'
+    2100006: '[Wood Veneer 02]'
+    2100008: '[Wood Bamboo Medium]'
+    2100010: '[Metal Aluminum Anodized]'
+    2100012: '[Aluminum]'
+    2100014: '[Translucent Glass Tinted]'
+    2100016: '[Translucent Glass Safety]'
+    2100018: '[Color M00]'
+    2100020: '[Translucent Glass Tinted]1'
+    2100022: '[Wood Floor Parquet]'
+    2100024: Marble Carrara Floor Tile
+    2100026: '[Wood Cherry Original]'
+    2100028: '[Color B01]'
+    2100030: '[Color M08]'
+    2100032: '[Color M06]'
+    2100034: '[Color M09]'
+    2100036: Granite Light Gray
+    2100038: '[Translucent Glass Tinted]2'
+    2100040: Helen_Skin
+    2100042: Helen_BraceletGlasses
+    2100044: Helen_Blouse
+    2100046: Helen_Phone
+    2100048: Helen_Hair
+    2100050: Helen_Skirt
+    2100052: Helen_Boots
+    2300000: Helen
+    2300002: //RootNode
+    3300000: Helen
+    3300002: //RootNode
+    4300000: "Mesh \u5BB6\u30E2\u30C7\u30EB(1)"
+    4300002: Mesh Helen
+    6400000: Helen
+    6400002: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 8d2c1b85028ed644bbe1562cd91429e6
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 77617dcf937dfe5cf4d39f3bf17bdbc6
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -81.16341, y: 34.570385, z: 2.5461068}
+      lookAt: {x: -10.148156, y: 19.11201, z: 29.171673}
+      up: {x: 0.18700421, y: 0.97985387, z: 0.07011301}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: '[Color E01]'
+    2100004: '[Color M00]'
+    2100006: '[Metal Aluminum Anodized]'
+    2100008: Metal Corrugated Shiny
+    2100010: '[Translucent Glass Tinted]'
+    2100012: '[Wood Floor Light]'
+    2100014: '[Carrera Marble]'
+    2100016: '[Wood Cherry Original]'
+    2100018: '[Color M02]'
+    2100020: '[Color M09]'
+    2100022: '[Polished Concrete Old]'
+    2100024: '[Color M01]'
+    2100026: '[Translucent Glass Tinted]1'
+    2100028: '[Color D01]'
+    2100030: '[Color M06]'
+    2100032: '[Color M07]'
+    2100034: '[Polished Concrete New]'
+    2100036: '[Wood Bamboo Medium]'
+    2100038: '[Translucent Glass Tinted]2'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: "Mesh \u30DE\u30F3\u30B7\u30E7\u30F3\u69CB\u60F3"
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Corrugated Shiny
+    second: {fileID: 2100000, guid: 9b35243b2ef8d6c4eac35cd76783f67a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Carrera Marble]'
+    second: {fileID: 2100000, guid: fa98c60d887c0de43a5278fc788f1c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color D01]'
+    second: {fileID: 2100000, guid: 72b124df5d1a7b74ca8c1e5fe4d21e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color E01]'
+    second: {fileID: 2100000, guid: 3ca5b8384f4b2b64b9fbd972cd27fe44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M00]'
+    second: {fileID: 2100000, guid: 4a3faa2702b7aca43af8c868e309f1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M01]'
+    second: {fileID: 2100000, guid: 7efac090820097b4bb6b31569ef06f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M02]'
+    second: {fileID: 2100000, guid: d2960d6c09c3e3f43be551a2186239ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M06]'
+    second: {fileID: 2100000, guid: a38d8f7492c4a4c48b9a44051cba93c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]'
+    second: {fileID: 2100000, guid: cb2e272400995774d9ef3db9f141779c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 961a8f9135db1ae40bca6228c4a9d74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal Aluminum Anodized]'
+    second: {fileID: 2100000, guid: 2af4a01015b21a14590989ab10512808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Polished Concrete New]'
+    second: {fileID: 2100000, guid: 0363b161030819646b2981a886a4fc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Polished Concrete Old]'
+    second: {fileID: 2100000, guid: fca6835dbc0812046b341cefb4dae585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Tinted]'
+    second: {fileID: 2100000, guid: ce9ca97917759b94c9e68e8ab715d25c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Tinted]1'
+    second: {fileID: 2100000, guid: f05d9f8943ced0342892e26673c44da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Tinted]2'
+    second: {fileID: 2100000, guid: 0692dd1c713eb5440997bc49a6e4f882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Bamboo Medium]'
+    second: {fileID: 2100000, guid: 3466e61f092695348acb513e80beec33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Cherry Original]'
+    second: {fileID: 2100000, guid: 7d4469518d7ca4245869f8cb8091c468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Floor Light]'
+    second: {fileID: 2100000, guid: b9b47dc920104344c8be80a6540fc2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: db6a46d66746eab47ac943aff16918ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

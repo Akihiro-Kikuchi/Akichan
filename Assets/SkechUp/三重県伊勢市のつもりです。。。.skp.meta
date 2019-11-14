@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: b59c8461e484a154bb835854aeecdb0f
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 50836cb2bdff024cdb2eb7b528e5b344
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -87.47871, y: 265.71167, z: -289.13318}
+      lookAt: {x: 549.2936, y: -254.21317, z: 628.16003}
+      up: {x: 0.24070357, y: 0.90654933, z: 0.3467421}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Helen
+    100002: //RootNode
+    400000: Helen
+    400002: //RootNode
+    2100000: _defaultMat
+    2100002: '[Grass Dark Green]'
+    2100004: '[Blacktop Old 02]'
+    2100006: Groundcover Bark Chips
+    2100008: '[Groundcover Sand Smooth]'
+    2100010: '[Grass Light Green]'
+    2100012: Helen_Skin
+    2100014: Helen_BraceletGlasses
+    2100016: Helen_Blouse
+    2100018: Helen_Phone
+    2100020: Helen_Hair
+    2100022: Helen_Skirt
+    2100024: Helen_Boots
+    2300000: Helen
+    2300002: //RootNode
+    3300000: Helen
+    3300002: //RootNode
+    4300000: "Mesh \u4E09\u91CD\u770C\u4F0A\u52E2\u5E02\u306E\u3064\u3082\u308A\u3067\u3059\u3002\u3002\u3002"
+    4300002: Mesh Helen
+    6400000: Helen
+    6400002: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundcover Bark Chips
+    second: {fileID: 2100000, guid: 1e3fd37eacf3aa54dbb09d67cc9e7231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Blouse
+    second: {fileID: 2100000, guid: 7421be7cdde0c274b97d5311ad30af05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Boots
+    second: {fileID: 2100000, guid: ea413ae7451ac6245a00ba0442f82b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_BraceletGlasses
+    second: {fileID: 2100000, guid: 5f814e671f986514cb49b986bf300d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Hair
+    second: {fileID: 2100000, guid: e9fa8ca43c4b40e40b3d31b2643ee2bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Phone
+    second: {fileID: 2100000, guid: f3d02eb7d32f2424c886e45a76ea30b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Skin
+    second: {fileID: 2100000, guid: 33dc21c525a42e54d971ca6e95fa7dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Helen_Skirt
+    second: {fileID: 2100000, guid: 6e600e34dc2865b489abaf8bcd6f9be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Blacktop Old 02]'
+    second: {fileID: 2100000, guid: d88de0b21c022184ba51377bffaf28ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Dark Green]'
+    second: {fileID: 2100000, guid: 4bbfb786088e96b4fa776333d1644fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Light Green]'
+    second: {fileID: 2100000, guid: 6b6e6c8dc489db147982e8d78c232288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Sand Smooth]'
+    second: {fileID: 2100000, guid: f077b7755ef58a749adbb20cd511a09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 4154115969629d2438e17d1bb501b3ba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0381
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

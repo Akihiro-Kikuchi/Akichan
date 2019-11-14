@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 49524d4128067c242a81bf3a951dbc0a
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f9d0befba87442715f42b8edb4710a30
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 1
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 223.25679, y: 110.9015, z: -53.047745}
+      lookAt: {x: 150.93144, y: 28.862665, z: 21.183765}
+      up: {x: -0.433127, y: 0.78408116, z: 0.4445422}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: '[Concrete Block 8x8 Gray]'
+    2100004: '[Groundcover Wood Mix]'
+    2100006: '[Stone Masonry Multi]'
+    2100008: Pavers Herringbone Brick
+    2100010: '[Grass Dark Green]'
+    2100012: '[Asphalt New]'
+    2100014: '[Grass Light Green]'
+    2100016: '[Asphalt Stamped Brick]'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: "Mesh \u7C21\u6613\u9053\u8DEFimp2018"
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavers Herringbone Brick
+    second: {fileID: 2100000, guid: d39742eb13cb0b34f8be87bea7dd9937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Asphalt New]'
+    second: {fileID: 2100000, guid: 22c0297d2ae3e0043b8a5f40e35bce36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Asphalt Stamped Brick]'
+    second: {fileID: 2100000, guid: ab387749c1d276f468742ca4a5e3d2ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Concrete Block 8x8 Gray]'
+    second: {fileID: 2100000, guid: 7e01d41a6fa126647b6bf7eff4e1b20d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Dark Green]'
+    second: {fileID: 2100000, guid: 75a4b9e2828f1b841a1f70888acbfd67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Light Green]'
+    second: {fileID: 2100000, guid: c9996810b02443f41ba68f9b32430dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Groundcover Wood Mix]'
+    second: {fileID: 2100000, guid: 4e04d222427185b4484b395845da43bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone Masonry Multi]'
+    second: {fileID: 2100000, guid: 70dfcfd1c35554c4b92fc92fd9daf6fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 8ec2657381d073741a889247361f0064, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0508
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

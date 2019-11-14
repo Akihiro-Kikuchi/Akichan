@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 6212fd786876e9d4bbbb7c0eaa5823ad
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bcb9b339de8f1c7d225811cee3f68168
+  longitude: 139.75
+  latitude: 35.667
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -12.126288, y: 6.1804523, z: 17.831892}
+      lookAt: {x: 6.0032525, y: 1.1330966, z: 3.8862243}
+      up: {x: 0.17080079, y: 0.9765067, z: -0.13138397}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: '[Wood Fence]'
+    2100004: '[Color G02]'
+    2100006: '[Roofing Shingles Multi]'
+    2100008: '[Asphalt Stamped Brick]'
+    2100010: '[Translucent Glass Tinted]1'
+    2100012: '[Metal Aluminum Anodized]'
+    2100014: '[Color D01]'
+    2100016: '[Grass Dark Green]'
+    2100018: '[Aluminum]'
+    2100020: '[Color A01]'
+    2100022: Groundcover Gravel 1 inch
+    2100024: Pavers Flagstone Gray
+    2100026: '[Fencing Metal Straight]'
+    2100028: '[Fencing Lattice Natural]'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: "Mesh \u907F\u96E3\u6240"
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundcover Gravel 1 inch
+    second: {fileID: 2100000, guid: a953cd5bd811ddb4892b8bb1176db54a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavers Flagstone Gray
+    second: {fileID: 2100000, guid: 83e5d6c82a201844d9068ea7035b7666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Aluminum]'
+    second: {fileID: 2100000, guid: 9c9eb198db1303046914f722544ff80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Asphalt Stamped Brick]'
+    second: {fileID: 2100000, guid: 16b3774ce5ea02940b759cd9f86ae97d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A01]'
+    second: {fileID: 2100000, guid: 59c81348e4f32ad4d93bbe6635c5a7ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color D01]'
+    second: {fileID: 2100000, guid: 7b60272798e1e7c43869e59ce3ba5d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color G02]'
+    second: {fileID: 2100000, guid: 1753dfc7b137c5644a58d12c107c80d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing Lattice Natural]'
+    second: {fileID: 2100000, guid: e11a45d66a9c0d541b64ab519b946ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Fencing Metal Straight]'
+    second: {fileID: 2100000, guid: 75df06168c578ba469bade18b8233e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Grass Dark Green]'
+    second: {fileID: 2100000, guid: 92972665e17149f4384aa1daead4e92d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal Aluminum Anodized]'
+    second: {fileID: 2100000, guid: d1a9696dfc1954b4d8384022777d69d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing Shingles Multi]'
+    second: {fileID: 2100000, guid: b9303e5d3b8e2ec449d229ee2e83009b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Tinted]1'
+    second: {fileID: 2100000, guid: 6cbdb5c93ebc6744eb10be2930c8ce2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Wood Fence]'
+    second: {fileID: 2100000, guid: e7fc5f2748726d2419c0d5010f34f387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 203042d521cbbcb43ad07e5351206e34, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
